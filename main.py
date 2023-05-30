@@ -50,5 +50,5 @@ if __name__=='__main__':
         sleep(2)
         logging.info('NOW TIME FOR LEAK TEST\n')
         sleep(1)
-        Main.leak_test(single_password
+        Main.leak_test(single_password)
         print('---'*20,'\n\n\n\n\n')
